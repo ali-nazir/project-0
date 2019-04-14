@@ -1,0 +1,30 @@
+$mycolor:  #009DFF;
+
+body{
+    background-color: $mycolor;
+    font-family: 'Montserrat', sans-serif;
+    color: lighten(black, 20%);
+
+}
+
+.container{
+    
+    text-align: center;
+    a {
+        
+        text-align:center;
+        padding: 15px 40px;
+        font-size: 15px;
+        font-weight: bold;
+        border-radius: 6px;
+        margin: 40px 20px 4px;
+        width:160px;
+        
+    }
+}
+h3{
+    color: white;
+    //font-weight: bold;
+}
+
+

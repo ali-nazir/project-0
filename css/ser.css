@@ -1,0 +1,24 @@
+body {
+  background-color: #009DFF;
+  font-family: 'Montserrat', sans-serif;
+  color: #333333;
+}
+
+.container {
+  text-align: center;
+}
+
+.container a {
+  text-align: center;
+  padding: 15px 40px;
+  font-size: 15px;
+  font-weight: bold;
+  border-radius: 6px;
+  margin: 40px 20px 4px;
+  width: 160px;
+}
+
+h3 {
+  color: white;
+}
+/*# sourceMappingURL=ser.css.map */
